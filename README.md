@@ -107,14 +107,14 @@ cuit]
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="876" height="952" alt="image" src="https://github.com/user-attachments/assets/e56a71aa-9594-4922-b97e-3cc841c0cf52" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1001" height="925" alt="image" src="https://github.com/user-attachments/assets/d8f0a083-b7c4-4642-aa5f-33c48a9d6c23" />
+
+<img width="960" height="951" alt="image" src="https://github.com/user-attachments/assets/160ee1c6-4c72-4d3f-81e8-3e19a9884198" />
+
+
 
 #### Diagrams
 
